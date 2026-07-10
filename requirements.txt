@@ -1,0 +1,17 @@
+# TensorFlow-compatible stack (Python 3.11)
+
+numpy==1.26.4
+protobuf==4.25.3
+
+tensorflow==2.16.1
+
+onnx==1.17.0
+onnxruntime==1.22.1
+onnxsim==0.4.36
+onnx2tf==1.28.2
+
+opencv-python==4.10.0.84
+Pillow==10.4.0
+
+tqdm==4.67.1
+psutil==7.0.0
